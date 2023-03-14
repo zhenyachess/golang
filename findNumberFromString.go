@@ -32,5 +32,5 @@ func adding(mixed1 string, mixed2 string) int64 {
 }
 
 func main() {
-	fmt.Println(adding("%8^80", "hhhhh20&&&&nd")) // result: 100
+	fmt.Println(adding("%8^80", "hhhhh20&&&&nd")) // result: 900
 }
